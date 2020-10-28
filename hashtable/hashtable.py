@@ -9,6 +9,7 @@ class HashTableEntry:
 
 
 # Hash table can't have fewer than this many slots
+# Starting project
 MIN_CAPACITY = 8
 
 
